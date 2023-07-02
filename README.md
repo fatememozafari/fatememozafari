@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatememozafari
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 09186424052
 
